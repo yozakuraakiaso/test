@@ -1,0 +1,11 @@
+    <table class="table is-striped is-fullwidth">
+      <tr>
+<td>アクセスした時間帯</td>
+        <td id="date"></td>
+      </tr>
+      <tr>
+        <td>端末情報</td>
+        <td id="device"></td>
+      </tr>
+              <progress class="progress"></progress>
+      </div>
